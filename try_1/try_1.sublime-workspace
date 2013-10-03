@@ -1,0 +1,400 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pr",
+				"Project"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Agus Reza/AppData/Roaming/Sublime Text 2/Packages/SublimeClang/SublimeClang.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 13516,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "hello.c",
+			"settings":
+			{
+				"buffer_size": 851,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "components/targets/srf05_soc/hal_board.h",
+			"settings":
+			{
+				"buffer_size": 7043,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "components/common/hal_types.h",
+			"settings":
+			{
+				"buffer_size": 5157,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "try_1.sublime-project",
+			"settings":
+			{
+				"buffer_size": 2045,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"selected_items":
+		[
+			[
+				"CLANG",
+				"SublimeClang: Clear cache"
+			],
+			[
+				"clang",
+				"SublimeClang: Clear cache"
+			],
+			[
+				"clsn",
+				"Preferences: SublimeClang Settings – User"
+			],
+			[
+				"sublime",
+				"Preferences: SublimeClang Settings – Default"
+			],
+			[
+				"synt",
+				"Set Syntax: Markdown"
+			],
+			[
+				"smar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"makdown pre",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"markd",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"syntax mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"package control ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"syntax: mark",
+				"Set Syntax: Markdown"
+			]
+		],
+		"width": 576.0
+	},
+	"console":
+	{
+		"height": 194.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/All Reza's Documents/My Doc/Agus Reza Aristiadi Nurwa/1_RUNNING NOW/Project Smart House/Trial-SW/Trial_SW_Zigbee/try_1/components/common/hal_types.h",
+		"/E/All Reza's Documents/My Doc/Agus Reza Aristiadi Nurwa/1_RUNNING NOW/Project Smart House/Trial-SW/Trial_SW_Zigbee/try_1/components/targets/interface/hal_lcd.h",
+		"/E/All Reza's Documents/My Doc/Agus Reza Aristiadi Nurwa/1_RUNNING NOW/Project Smart House/Trial-SW/Trial_SW_Zigbee/try_1/try_1.sublime-project",
+		"/C/Users/Agus Reza/AppData/Roaming/Sublime Text 2/Packages/User/SublimeClang.sublime-settings",
+		"/C/Users/Agus Reza/AppData/Roaming/Sublime Text 2/Packages/SublimeClang/SublimeClang.sublime-settings",
+		"/E/All Reza's Documents/My Doc/Agus Reza Aristiadi Nurwa/1_RUNNING NOW/Project Smart House/Datasheet/TI Software/swrc135b_CC2530-Software Examples (Rev. B)/source/apps/light_switch/light_switch.c",
+		"/E/All Reza's Documents/My Doc/Agus Reza Aristiadi Nurwa/1_RUNNING NOW/Project Smart House/Trial-SW/try_1/hello.c",
+		"/E/All Reza's Documents/My Doc/Agus Reza Aristiadi Nurwa/1_RUNNING NOW/Project Smart House/Trial-SW/try_1/components/targets/interface/hal_led.h",
+		"/E/All Reza's Documents/My Doc/Agus Reza Aristiadi Nurwa/1_RUNNING NOW/Project Smart House/Trial-SW/try_1/components/targets/srf05_soc/hal_led.c",
+		"/E/All Reza's Documents/My Doc/Agus Reza Aristiadi Nurwa/1_RUNNING NOW/Project Smart House/Dokumentasi/Dokumentasi_1",
+		"/E/All Reza's Documents/My Doc/Agus Reza Aristiadi Nurwa/1_RUNNING NOW/Project Smart House/Datasheet/TI Software/swrc135b_CC2530-Software Examples (Rev. B)/source/apps/spectrum_analyzer/spectrum_analyzer.c",
+		"/E/All Reza's Documents/My Doc/Agus Reza Aristiadi Nurwa/1_RUNNING NOW/Project Smart House/Trial-SW/try_1/components/utils/util.c",
+		"/E/All Reza's Documents/My Doc/Agus Reza Aristiadi Nurwa/1_RUNNING NOW/Project Smart House/Trial-SW/try_1/components/utils/util_lcd.c",
+		"/E/All Reza's Documents/My Doc/Agus Reza Aristiadi Nurwa/1_RUNNING NOW/Project Smart House/Datasheet/TI Software/swrc135b_CC2530-Software Examples (Rev. B)/source/components/utils/util_lcd.h",
+		"/E/All Reza's Documents/My Doc/Agus Reza Aristiadi Nurwa/1_RUNNING NOW/Project Smart House/Trial-SW/try_1/components/targets/common/hal_lcd_srf05.c",
+		"/E/All Reza's Documents/My Doc/Agus Reza Aristiadi Nurwa/1_RUNNING NOW/Project Smart House/Trial-SW/try_1/components/common/hal_int.c",
+		"/E/All Reza's Documents/My Doc/Agus Reza Aristiadi Nurwa/1_RUNNING NOW/Project Smart House/Trial-SW/try_1/components/radios/cc2530/adc.h",
+		"/E/All Reza's Documents/My Doc/Agus Reza Aristiadi Nurwa/1_RUNNING NOW/Project Smart House/Datasheet/TI Software/swrc135b_CC2530-Software Examples (Rev. B)/source/components/common/hal_int.c",
+		"/E/All Reza's Documents/My Doc/Agus Reza Aristiadi Nurwa/1_RUNNING NOW/Project Smart House/Datasheet/TI Software/swrc135b_CC2530-Software Examples (Rev. B)/source/components/common/cc8051/hal_cc8051.h"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"/**\",",
+			"\\"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Agus Reza/AppData/Roaming/Sublime Text 2/Packages/SublimeClang/SublimeClang.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 13516,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6141,
+								6141
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 9.0,
+						"translation.y": 3081.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "hello.c",
+					"settings":
+					{
+						"buffer_size": 851,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								780,
+								780
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 228.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "components/targets/srf05_soc/hal_board.h",
+					"settings":
+					{
+						"buffer_size": 7043,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								596,
+								596
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "components/common/hal_types.h",
+					"settings":
+					{
+						"buffer_size": 5157,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								310,
+								310
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "try_1.sublime-project",
+					"settings":
+					{
+						"buffer_size": 2045,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								268,
+								268
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.clang":
+	{
+		"height": 124.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true
+}

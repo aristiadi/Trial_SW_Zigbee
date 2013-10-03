@@ -1,0 +1,36 @@
+{
+	"folders":
+	[
+		{
+			"path": "/E/All Reza's Documents/My Doc/Agus Reza Aristiadi Nurwa/1_RUNNING NOW/Project Smart House/Trial-SW/Trial_SW_Zigbee/try_1"
+		}
+	],
+	"settings":
+	{
+		"sublimeclang_enabled": true,
+		"sublimeclang_options": [
+				"-Wno-main-return-type",
+				"-IC:/Program Files (x86)/IAR Systems/Embedded Workbench 6.4/8051/inc",
+		        // "-I${folder:${Project_path:try_1.sublime-project}}/components/basicrf/**",
+		        // "-I${folder:${Project_path:try_1.sublime-project}}/components/common/**",
+		        // "-I${folder:${Project_path:try_1.sublime-project}}/components/common/cc8051/**",
+		        // "-I${folder:${Project_path:try_1.sublime-project}}/components/radios/cc2530/**",
+		        // "-I${folder:${Project_path:try_1.sublime-project}}/components/targets/interface/**",
+		        // "-I${folder:${Project_path:try_1.sublime-project}}/components/targets/srf05_soc/**",
+		        // "-I${folder:${Project_path:try_1.sublime-project}}/components/utils/**"
+		        "-IE:/All Reza's Documents/My Doc/Agus Reza Aristiadi Nurwa/1_RUNNING NOW/Project Smart House/Trial-SW/Trial_SW_Zigbee/try_1/components/basicrf",
+		        "-IE:/All Reza's Documents/My Doc/Agus Reza Aristiadi Nurwa/1_RUNNING NOW/Project Smart House/Trial-SW/Trial_SW_Zigbee/try_1/components/common",
+		        "-IE:/All Reza's Documents/My Doc/Agus Reza Aristiadi Nurwa/1_RUNNING NOW/Project Smart House/Trial-SW/Trial_SW_Zigbee/try_1/components/common/cc8051",
+		        "-IE:/All Reza's Documents/My Doc/Agus Reza Aristiadi Nurwa/1_RUNNING NOW/Project Smart House/Trial-SW/Trial_SW_Zigbee/try_1/components/radios/cc2530",
+		        "-IE:/All Reza's Documents/My Doc/Agus Reza Aristiadi Nurwa/1_RUNNING NOW/Project Smart House/Trial-SW/Trial_SW_Zigbee/try_1/components/targets/interface",
+		        "-IE:/All Reza's Documents/My Doc/Agus Reza Aristiadi Nurwa/1_RUNNING NOW/Project Smart House/Trial-SW/Trial_SW_Zigbee/try_1/components/targets/srf05_soc",
+		        "-IE:/All Reza's Documents/My Doc/Agus Reza Aristiadi Nurwa/1_RUNNING NOW/Project Smart House/Trial-SW/Trial_SW_Zigbee/try_1/components/utils",
+		        "-Dchip=2530"
+			],
+		"sublimeclang_dont_prepend_clang_includes": true,
+		"sublimeclang_show_output_panel": false,
+		"sublimeclang_show_status": false,
+		"sublimeclang_show_visual_error_marks": true
+	}
+}
+

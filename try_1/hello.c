@@ -35,6 +35,7 @@ void main(void)
     utilPrintLogo("Agus Reza");
     halMcuWaitMs(3000);
 
+    halLedSet(4);
 
     while (1) {
     halLedToggle(3);

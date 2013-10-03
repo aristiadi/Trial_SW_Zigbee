@@ -1,0 +1,748 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ABS	.\components\common\hal_defs.h	80;"	d
+ADC_10_BIT	.\components\radios\cc2530\adc.h	46;"	d
+ADC_12_BIT	.\components\radios\cc2530\adc.h	47;"	d
+ADC_7_BIT	.\components\radios\cc2530\adc.h	44;"	d
+ADC_9_BIT	.\components\radios\cc2530\adc.h	45;"	d
+ADC_AIN0	.\components\radios\cc2530\adc.h	50;"	d
+ADC_AIN1	.\components\radios\cc2530\adc.h	51;"	d
+ADC_AIN2	.\components\radios\cc2530\adc.h	52;"	d
+ADC_AIN3	.\components\radios\cc2530\adc.h	53;"	d
+ADC_AIN4	.\components\radios\cc2530\adc.h	54;"	d
+ADC_AIN5	.\components\radios\cc2530\adc.h	55;"	d
+ADC_AIN6	.\components\radios\cc2530\adc.h	56;"	d
+ADC_AIN7	.\components\radios\cc2530\adc.h	57;"	d
+ADC_DISABLE_CHANNEL	.\components\radios\cc2530\adc.h	85;"	d
+ADC_ENABLE_CHANNEL	.\components\radios\cc2530\adc.h	84;"	d
+ADC_GND	.\components\radios\cc2530\adc.h	58;"	d
+ADC_REF_1_25_V	.\components\radios\cc2530\adc.h	38;"	d
+ADC_REF_AVDD	.\components\radios\cc2530\adc.h	40;"	d
+ADC_REF_P0_6_P0_7	.\components\radios\cc2530\adc.h	41;"	d
+ADC_REF_P0_7	.\components\radios\cc2530\adc.h	39;"	d
+ADC_SAMPLE_CONTINUOUS	.\components\radios\cc2530\adc.h	63;"	d
+ADC_SAMPLE_READY	.\components\radios\cc2530\adc.h	81;"	d
+ADC_SAMPLE_SINGLE	.\components\radios\cc2530\adc.h	71;"	d
+ADC_SEQUENCE_SETUP	.\components\radios\cc2530\adc.h	34;"	d
+ADC_SINGLE_CONVERSION	.\components\radios\cc2530\adc.h	31;"	d
+ADC_STOP	.\components\radios\cc2530\adc.h	68;"	d
+ADC_TEMP_SENS	.\components\radios\cc2530\adc.h	59;"	d
+ADC_TRIGGER_FROM_TIMER1	.\components\radios\cc2530\adc.h	76;"	d
+ADC_VDD_3	.\components\radios\cc2530\adc.h	60;"	d
+AES_DECRYPT	.\components\radios\cc2530\hal_rf_security.c	48;"	d	file:
+AES_ENCRYPT	.\components\radios\cc2530\hal_rf_security.c	47;"	d	file:
+AES_LOAD_IV	.\components\radios\cc2530\hal_rf_security.c	50;"	d	file:
+AES_LOAD_KEY	.\components\radios\cc2530\hal_rf_security.c	49;"	d	file:
+AES_MODE_CBC	.\components\radios\cc2530\hal_rf_security.c	39;"	d	file:
+AES_MODE_CBCMAC	.\components\radios\cc2530\hal_rf_security.c	44;"	d	file:
+AES_MODE_CFB	.\components\radios\cc2530\hal_rf_security.c	40;"	d	file:
+AES_MODE_CTR	.\components\radios\cc2530\hal_rf_security.c	42;"	d	file:
+AES_MODE_ECB	.\components\radios\cc2530\hal_rf_security.c	43;"	d	file:
+AES_MODE_OFB	.\components\radios\cc2530\hal_rf_security.c	41;"	d	file:
+AES_RDY	.\components\radios\cc2530\hal_rf_security.c	36;"	d	file:
+AES_SET_MODE	.\components\radios\cc2530\hal_rf_security.c	30;"	d	file:
+AES_SET_OPERATION	.\components\radios\cc2530\hal_rf_security.c	33;"	d	file:
+AES_START	.\components\radios\cc2530\hal_rf_security.c	27;"	d	file:
+AUTO_ACK	.\components\radios\cc2530\hal_rf.c	34;"	d	file:
+AUTO_CRC	.\components\radios\cc2530\hal_rf.c	35;"	d	file:
+BASIC_RF_ACK_DURATION	.\components\basicrf\basic_rf.c	49;"	d	file:
+BASIC_RF_ACK_PACKET_SIZE	.\components\basicrf\basic_rf.c	43;"	d	file:
+BASIC_RF_AUX_HDR_LENGTH	.\components\basicrf\basic_rf.c	70;"	d	file:
+BASIC_RF_CRC_OK_BM	.\components\basicrf\basic_rf.c	81;"	d	file:
+BASIC_RF_FCF_ACK	.\components\basicrf\basic_rf.c	57;"	d	file:
+BASIC_RF_FCF_ACK_BM	.\components\basicrf\basic_rf.c	58;"	d	file:
+BASIC_RF_FCF_ACK_BM_L	.\components\basicrf\basic_rf.c	65;"	d	file:
+BASIC_RF_FCF_ACK_L	.\components\basicrf\basic_rf.c	64;"	d	file:
+BASIC_RF_FCF_BM	.\components\basicrf\basic_rf.c	59;"	d	file:
+BASIC_RF_FCF_BM_L	.\components\basicrf\basic_rf.c	66;"	d	file:
+BASIC_RF_FCF_NOACK	.\components\basicrf\basic_rf.c	56;"	d	file:
+BASIC_RF_FCF_NOACK_L	.\components\basicrf\basic_rf.c	63;"	d	file:
+BASIC_RF_FOOTER_SIZE	.\components\basicrf\basic_rf.c	44;"	d	file:
+BASIC_RF_H	.\components\basicrf\basic_rf.h	8;"	d
+BASIC_RF_HDR_SIZE	.\components\basicrf\basic_rf.c	45;"	d	file:
+BASIC_RF_HDR_SIZE	.\components\basicrf\basic_rf.c	76;"	d	file:
+BASIC_RF_HDR_SIZE	.\components\basicrf\basic_rf.c	77;"	d	file:
+BASIC_RF_LEN_AUTH	.\components\basicrf\basic_rf.c	71;"	d	file:
+BASIC_RF_LEN_MIC	.\components\basicrf\basic_rf.c	74;"	d	file:
+BASIC_RF_MAX_PAYLOAD_SIZE	.\components\basicrf\basic_rf.c	41;"	d	file:
+BASIC_RF_PACKET_OVERHEAD_SIZE	.\components\basicrf\basic_rf.c	40;"	d	file:
+BASIC_RF_PLD_LEN_MASK	.\components\basicrf\basic_rf.c	53;"	d	file:
+BASIC_RF_SECURITY_M	.\components\basicrf\basic_rf.c	73;"	d	file:
+BASIC_RF_SEC_ENABLED_FCF_BM	.\components\basicrf\basic_rf.c	60;"	d	file:
+BASIC_RF_SEC_ENABLED_FCF_BM_L	.\components\basicrf\basic_rf.c	67;"	d	file:
+BASIC_RF_SEC_H	.\components\basicrf\basic_rf_security.h	10;"	d
+BASIC_RF_SYMBOL_DURATION	.\components\basicrf\basic_rf.c	50;"	d	file:
+BF	.\components\common\hal_defs.h	68;"	d
+BIAS_1_4	.\components\common\hal_lcd_srf05.c	52;"	d	file:
+BIAS_1_5	.\components\common\hal_lcd_srf05.c	51;"	d	file:
+BIG_ENDIAN	.\components\common\hal_types.h	96;"	d
+BIT0	.\components\common\cc8051\hal_cc8051.h	21;"	d
+BIT1	.\components\common\cc8051\hal_cc8051.h	22;"	d
+BIT2	.\components\common\cc8051\hal_cc8051.h	23;"	d
+BIT3	.\components\common\cc8051\hal_cc8051.h	24;"	d
+BIT4	.\components\common\cc8051\hal_cc8051.h	25;"	d
+BIT5	.\components\common\cc8051\hal_cc8051.h	26;"	d
+BIT6	.\components\common\cc8051\hal_cc8051.h	27;"	d
+BIT7	.\components\common\cc8051\hal_cc8051.h	28;"	d
+BM	.\components\common\hal_defs.h	64;"	d
+BOARD_NAME	.\components\targets\srf05_soc\hal_board.h	39;"	d
+BREAK_UINT32	.\components\common\hal_defs.h	85;"	d
+BSP_CONFIG_CLOCK_MHZ	.\components\targets\srf05_soc\hal_board.h	47;"	d
+BSP_CONFIG_CLOCK_MHZ	.\components\targets\srf05_soc\hal_board.h	49;"	d
+BUF_SIZE	.\components\utils\util_buffer.h	21;"	d
+BUF_SIZE	.\components\utils\util_buffer.h	23;"	d
+BUILD_UINT16	.\components\common\hal_defs.h	99;"	d
+BUILD_UINT32	.\components\common\hal_defs.h	88;"	d
+BUILD_UINT8	.\components\common\hal_defs.h	107;"	d
+BV	.\components\common\hal_defs.h	60;"	d
+CC2530_91_TXPOWER_0_DBM	.\components\radios\cc2530\hal_rf.c	80;"	d	file:
+CC2530_91_TXPOWER_13_DBM	.\components\radios\cc2530\hal_rf.c	81;"	d	file:
+CC2530_91_TXPOWER_16_DBM	.\components\radios\cc2530\hal_rf.c	82;"	d	file:
+CC2530_91_TXPOWER_18_DBM	.\components\radios\cc2530\hal_rf.c	83;"	d	file:
+CC2530_91_TXPOWER_20_DBM	.\components\radios\cc2530\hal_rf.c	84;"	d	file:
+CC2530_GET_CLKSPD	.\components\radios\cc2530\clock.h	72;"	d
+CC2530_GET_TICKSPD	.\components\radios\cc2530\clock.h	76;"	d
+CC2530_IS_HFRC_STABLE	.\components\radios\cc2530\clock.h	66;"	d
+CC2530_IS_XOSC_STABLE	.\components\radios\cc2530\clock.h	69;"	d
+CC2530_SET_CLKSPD	.\components\radios\cc2530\clock.h	84;"	d
+CC2530_SET_TICKSPD	.\components\radios\cc2530\clock.h	79;"	d
+CC2530_TXPOWER_0_DBM	.\components\radios\cc2530\hal_rf.c	40;"	d	file:
+CC2530_TXPOWER_0_DBM	.\components\radios\cc2530\hal_rf.c	44;"	d	file:
+CC2530_TXPOWER_4_DBM	.\components\radios\cc2530\hal_rf.c	41;"	d	file:
+CC2530_TXPOWER_4_DBM	.\components\radios\cc2530\hal_rf.c	45;"	d	file:
+CC2530_TXPOWER_MIN_3_DBM	.\components\radios\cc2530\hal_rf.c	39;"	d	file:
+CC2530_TXPOWER_MIN_3_DBM	.\components\radios\cc2530\hal_rf.c	43;"	d	file:
+CC2530_WAIT_CLK_UPDATE	.\components\radios\cc2530\clock.h	89;"	d
+CGRAM	.\components\common\hal_lcd_srf05.c	36;"	d	file:
+CGROM	.\components\common\hal_lcd_srf05.c	35;"	d	file:
+CHANNEL_SPACING	.\components\targets\interface\hal_rf.h	50;"	d
+CHIPREVISION	.\components\radios\cc2530\hal_rf.c	26;"	d	file:
+CLKCON_CLKSPD_BM	.\components\radios\cc2530\clock.h	44;"	d
+CLKCON_OSC32K_BM	.\components\radios\cc2530\clock.h	41;"	d
+CLKCON_OSC_BM	.\components\radios\cc2530\clock.h	42;"	d
+CLKCON_TICKSPD_BM	.\components\radios\cc2530\clock.h	43;"	d
+CLOCK_32K_RCOSC	.\components\radios\cc2530\clock.h	38;"	d
+CLOCK_32K_XTAL	.\components\radios\cc2530\clock.h	37;"	d
+CLOCK_SRC_HFRC	.\components\radios\cc2530\clock.h	34;"	d
+CLOCK_SRC_XOSC	.\components\radios\cc2530\clock.h	33;"	d
+CODE	.\components\common\hal_types.h	122;"	d
+CODE	.\components\common\hal_types.h	134;"	d
+CODE	.\components\common\hal_types.h	49;"	d
+CODE	.\components\common\hal_types.h	71;"	d
+CODE	.\components\common\hal_types.h	98;"	d
+COM_BACKWARD	.\components\common\hal_lcd_srf05.c	38;"	d	file:
+COM_FORWARD	.\components\common\hal_lcd_srf05.c	37;"	d	file:
+CONTRAST_CTRL_REGISTER	.\components\common\hal_lcd_srf05.c	76;"	d	file:
+CONVERTER_AND_REG_OFF	.\components\common\hal_lcd_srf05.c	58;"	d	file:
+CONVERTER_AND_REG_ON	.\components\common\hal_lcd_srf05.c	59;"	d	file:
+DISPLAY_CTRL_BLINK_OFF	.\components\common\hal_lcd_srf05.c	66;"	d	file:
+DISPLAY_CTRL_BLINK_ON	.\components\common\hal_lcd_srf05.c	65;"	d	file:
+DISPLAY_CTRL_CURSOR_OFF	.\components\common\hal_lcd_srf05.c	68;"	d	file:
+DISPLAY_CTRL_CURSOR_ON	.\components\common\hal_lcd_srf05.c	67;"	d	file:
+DISPLAY_CTRL_OFF	.\components\common\hal_lcd_srf05.c	64;"	d	file:
+DISPLAY_CTRL_ON	.\components\common\hal_lcd_srf05.c	63;"	d	file:
+FAILED	.\components\common\hal_defs.h	47;"	d
+FALSE	.\components\common\hal_defs.h	24;"	d
+FAR	.\components\common\hal_types.h	100;"	d
+FAR	.\components\common\hal_types.h	125;"	d
+FAR	.\components\common\hal_types.h	136;"	d
+FAR	.\components\common\hal_types.h	54;"	d
+FAR	.\components\common\hal_types.h	75;"	d
+FLAG_FIELD	.\components\basicrf\basic_rf_security.c	20;"	d	file:
+FUNCTION_SET	.\components\common\hal_lcd_srf05.c	41;"	d	file:
+HAL_ASSERT	.\components\targets\interface\hal_assert.h	17;"	d
+HAL_ASSERT_H	.\components\targets\interface\hal_assert.h	10;"	d
+HAL_BOARD_H	.\components\targets\srf05_soc\hal_board.h	10;"	d
+HAL_BOARD_IO_BTN_1_PIN	.\components\targets\srf05_soc\hal_board.h	81;"	d
+HAL_BOARD_IO_BTN_1_PORT	.\components\targets\srf05_soc\hal_board.h	80;"	d
+HAL_BOARD_IO_EM_CS_PIN	.\components\targets\srf05_soc\hal_board.h	60;"	d
+HAL_BOARD_IO_EM_CS_PORT	.\components\targets\srf05_soc\hal_board.h	59;"	d
+HAL_BOARD_IO_JOYSTICK_ADC_CH	.\components\targets\srf05_soc\hal_joystick.c	33;"	d	file:
+HAL_BOARD_IO_JOYSTICK_ADC_PIN	.\components\targets\srf05_soc\hal_board.h	89;"	d
+HAL_BOARD_IO_JOYSTICK_ADC_PORT	.\components\targets\srf05_soc\hal_board.h	88;"	d
+HAL_BOARD_IO_JOY_MOVE_PIN	.\components\targets\srf05_soc\hal_board.h	91;"	d
+HAL_BOARD_IO_JOY_MOVE_PORT	.\components\targets\srf05_soc\hal_board.h	90;"	d
+HAL_BOARD_IO_LCD_CS_PIN	.\components\targets\srf05_soc\hal_board.h	64;"	d
+HAL_BOARD_IO_LCD_CS_PORT	.\components\targets\srf05_soc\hal_board.h	63;"	d
+HAL_BOARD_IO_LCD_MODE_PIN	.\components\targets\srf05_soc\hal_board.h	66;"	d
+HAL_BOARD_IO_LCD_MODE_PORT	.\components\targets\srf05_soc\hal_board.h	65;"	d
+HAL_BOARD_IO_LED_1_PIN	.\components\targets\srf05_soc\hal_board.h	70;"	d
+HAL_BOARD_IO_LED_1_PORT	.\components\targets\srf05_soc\hal_board.h	69;"	d
+HAL_BOARD_IO_LED_2_PIN	.\components\targets\srf05_soc\hal_board.h	72;"	d
+HAL_BOARD_IO_LED_2_PORT	.\components\targets\srf05_soc\hal_board.h	71;"	d
+HAL_BOARD_IO_LED_3_PIN	.\components\targets\srf05_soc\hal_board.h	74;"	d
+HAL_BOARD_IO_LED_3_PORT	.\components\targets\srf05_soc\hal_board.h	73;"	d
+HAL_BOARD_IO_LED_4_PIN	.\components\targets\srf05_soc\hal_board.h	76;"	d
+HAL_BOARD_IO_LED_4_PORT	.\components\targets\srf05_soc\hal_board.h	75;"	d
+HAL_BOARD_IO_SPI_CLK_PIN	.\components\targets\srf05_soc\hal_board.h	58;"	d
+HAL_BOARD_IO_SPI_CLK_PORT	.\components\targets\srf05_soc\hal_board.h	57;"	d
+HAL_BOARD_IO_SPI_MISO_PIN	.\components\targets\srf05_soc\hal_board.h	54;"	d
+HAL_BOARD_IO_SPI_MISO_PORT	.\components\targets\srf05_soc\hal_board.h	53;"	d
+HAL_BOARD_IO_SPI_MOSI_PIN	.\components\targets\srf05_soc\hal_board.h	56;"	d
+HAL_BOARD_IO_SPI_MOSI_PORT	.\components\targets\srf05_soc\hal_board.h	55;"	d
+HAL_BOARD_IO_UART_RTS_PIN	.\components\targets\srf05_soc\hal_board.h	95;"	d
+HAL_BOARD_IO_UART_RTS_PORT	.\components\targets\srf05_soc\hal_board.h	94;"	d
+HAL_BUTTON_1	.\components\targets\interface\hal_button.h	/^    HAL_BUTTON_1,$/;"	e	enum:__anon5
+HAL_BUTTON_1_PUSHED	.\components\targets\srf05_soc\hal_board.h	144;"	d
+HAL_BUTTON_1_PUSHED	.\components\targets\srf05_soc\hal_board.h	147;"	d
+HAL_BUTTON_2	.\components\targets\interface\hal_button.h	/^    HAL_BUTTON_2$/;"	e	enum:__anon5
+HAL_BUTTON_H	.\components\targets\interface\hal_button.h	9;"	d
+HAL_BUTTON_NONE	.\components\targets\interface\hal_button.h	/^    HAL_BUTTON_NONE = 0,$/;"	e	enum:__anon5
+HAL_CC8051_H	.\components\common\cc8051\hal_cc8051.h	8;"	d
+HAL_DEBOUNCE	.\components\targets\srf05_soc\hal_board.h	99;"	d
+HAL_DEFS_H	.\components\common\hal_defs.h	9;"	d
+HAL_DIGIO_ERROR	.\components\targets\interface\hal_digio.h	34;"	d
+HAL_DIGIO_H	.\components\targets\interface\hal_digio.h	9;"	d
+HAL_DIGIO_INPUT	.\components\targets\interface\hal_digio.h	/^    HAL_DIGIO_INPUT,$/;"	e	enum:__anon6
+HAL_DIGIO_INT_FALLING_EDGE	.\components\targets\interface\hal_digio.h	/^    HAL_DIGIO_INT_FALLING_EDGE,$/;"	e	enum:__anon7
+HAL_DIGIO_INT_RISING_EDGE	.\components\targets\interface\hal_digio.h	/^    HAL_DIGIO_INT_RISING_EDGE$/;"	e	enum:__anon7
+HAL_DIGIO_OK	.\components\targets\interface\hal_digio.h	33;"	d
+HAL_DIGIO_OUTPUT	.\components\targets\interface\hal_digio.h	/^    HAL_DIGIO_OUTPUT$/;"	e	enum:__anon6
+HAL_INT_H	.\components\targets\interface\hal_int.h	10;"	d
+HAL_INT_LOCK	.\components\targets\interface\hal_int.h	35;"	d
+HAL_INT_LOCK	.\components\targets\interface\hal_int.h	43;"	d
+HAL_INT_LOCK	.\components\targets\interface\hal_int.h	52;"	d
+HAL_INT_LOCK	.\components\targets\interface\hal_int.h	61;"	d
+HAL_INT_LOCK	.\components\targets\interface\hal_int.h	68;"	d
+HAL_INT_OFF	.\components\targets\interface\hal_int.h	34;"	d
+HAL_INT_OFF	.\components\targets\interface\hal_int.h	42;"	d
+HAL_INT_OFF	.\components\targets\interface\hal_int.h	51;"	d
+HAL_INT_OFF	.\components\targets\interface\hal_int.h	60;"	d
+HAL_INT_OFF	.\components\targets\interface\hal_int.h	67;"	d
+HAL_INT_ON	.\components\targets\interface\hal_int.h	33;"	d
+HAL_INT_ON	.\components\targets\interface\hal_int.h	41;"	d
+HAL_INT_ON	.\components\targets\interface\hal_int.h	50;"	d
+HAL_INT_ON	.\components\targets\interface\hal_int.h	59;"	d
+HAL_INT_ON	.\components\targets\interface\hal_int.h	66;"	d
+HAL_INT_UNLOCK	.\components\targets\interface\hal_int.h	37;"	d
+HAL_INT_UNLOCK	.\components\targets\interface\hal_int.h	45;"	d
+HAL_INT_UNLOCK	.\components\targets\interface\hal_int.h	53;"	d
+HAL_INT_UNLOCK	.\components\targets\interface\hal_int.h	62;"	d
+HAL_INT_UNLOCK	.\components\targets\interface\hal_int.h	69;"	d
+HAL_ISR_FUNCTION	.\components\common\hal_types.h	107;"	d
+HAL_ISR_FUNCTION	.\components\common\hal_types.h	61;"	d
+HAL_ISR_FUNCTION	.\components\common\hal_types.h	83;"	d
+HAL_ISR_FUNCTION	.\components\radios\cc2530\hal_rf.c	/^HAL_ISR_FUNCTION( rfIsr, RF_VECTOR )$/;"	f
+HAL_ISR_FUNCTION	.\components\radios\cc2530\hal_timer_32k.c	/^HAL_ISR_FUNCTION(T1_ISR,T1_VECTOR)$/;"	f
+HAL_ISR_FUNCTION	.\components\targets\srf05_soc\hal_digio.c	/^HAL_ISR_FUNCTION(port0_ISR,P0INT_VECTOR)$/;"	f
+HAL_ISR_FUNCTION	.\components\targets\srf05_soc\hal_digio.c	/^HAL_ISR_FUNCTION(port1_ISR,P1INT_VECTOR)$/;"	f
+HAL_ISR_FUNCTION	.\components\targets\srf05_soc\hal_digio.c	/^HAL_ISR_FUNCTION(port2_ISR,P2INT_VECTOR)$/;"	f
+HAL_ISR_FUNC_DECLARATION	.\components\common\hal_types.h	103;"	d
+HAL_ISR_FUNC_DECLARATION	.\components\common\hal_types.h	57;"	d
+HAL_ISR_FUNC_DECLARATION	.\components\common\hal_types.h	79;"	d
+HAL_ISR_FUNC_PROTOTYPE	.\components\common\hal_types.h	105;"	d
+HAL_ISR_FUNC_PROTOTYPE	.\components\common\hal_types.h	59;"	d
+HAL_ISR_FUNC_PROTOTYPE	.\components\common\hal_types.h	81;"	d
+HAL_JOYSTICK_DOWN	.\components\targets\srf05_soc\hal_board.h	156;"	d
+HAL_JOYSTICK_EVT_CENTER	.\components\targets\interface\hal_joystick.h	/^    HAL_JOYSTICK_EVT_CENTER,$/;"	e	enum:__anon9
+HAL_JOYSTICK_EVT_DOWN	.\components\targets\interface\hal_joystick.h	/^    HAL_JOYSTICK_EVT_DOWN,$/;"	e	enum:__anon9
+HAL_JOYSTICK_EVT_INVALID	.\components\targets\interface\hal_joystick.h	/^    HAL_JOYSTICK_EVT_INVALID$/;"	e	enum:__anon9
+HAL_JOYSTICK_EVT_LEFT	.\components\targets\interface\hal_joystick.h	/^    HAL_JOYSTICK_EVT_LEFT,$/;"	e	enum:__anon9
+HAL_JOYSTICK_EVT_MAX	.\components\targets\interface\hal_joystick.h	/^    HAL_JOYSTICK_EVT_MAX,$/;"	e	enum:__anon9
+HAL_JOYSTICK_EVT_PUSHED	.\components\targets\interface\hal_joystick.h	/^    HAL_JOYSTICK_EVT_PUSHED,$/;"	e	enum:__anon9
+HAL_JOYSTICK_EVT_RIGHT	.\components\targets\interface\hal_joystick.h	/^    HAL_JOYSTICK_EVT_RIGHT,$/;"	e	enum:__anon9
+HAL_JOYSTICK_EVT_UP	.\components\targets\interface\hal_joystick.h	/^    HAL_JOYSTICK_EVT_UP,$/;"	e	enum:__anon9
+HAL_JOYSTICK_H	.\components\targets\interface\hal_joystick.h	9;"	d
+HAL_JOYSTICK_LEFT	.\components\targets\srf05_soc\hal_board.h	157;"	d
+HAL_JOYSTICK_LEVEL	.\components\targets\srf05_soc\hal_board.h	152;"	d
+HAL_JOYSTICK_RIGHT	.\components\targets\srf05_soc\hal_board.h	158;"	d
+HAL_JOYSTICK_UP	.\components\targets\srf05_soc\hal_board.h	155;"	d
+HAL_LCD_H	.\components\targets\interface\hal_lcd.h	9;"	d
+HAL_LCD_LINE_1	.\components\targets\interface\hal_lcd.h	/^    HAL_LCD_LINE_1 = 1,$/;"	e	enum:__anon11
+HAL_LCD_LINE_2	.\components\targets\interface\hal_lcd.h	/^    HAL_LCD_LINE_2,$/;"	e	enum:__anon11
+HAL_LCD_LINE_3	.\components\targets\interface\hal_lcd.h	/^    HAL_LCD_LINE_3$/;"	e	enum:__anon11
+HAL_LCD_RADIX_DEC	.\components\targets\interface\hal_lcd.h	/^    HAL_LCD_RADIX_DEC,$/;"	e	enum:__anon10
+HAL_LCD_RADIX_HEX	.\components\targets\interface\hal_lcd.h	/^    HAL_LCD_RADIX_HEX$/;"	e	enum:__anon10
+HAL_LED_CLR_1	.\components\targets\srf05_soc\hal_board.h	114;"	d
+HAL_LED_CLR_1	.\components\targets\srf05_soc\hal_board.h	131;"	d
+HAL_LED_CLR_2	.\components\targets\srf05_soc\hal_board.h	115;"	d
+HAL_LED_CLR_2	.\components\targets\srf05_soc\hal_board.h	132;"	d
+HAL_LED_CLR_3	.\components\targets\srf05_soc\hal_board.h	116;"	d
+HAL_LED_CLR_3	.\components\targets\srf05_soc\hal_board.h	133;"	d
+HAL_LED_CLR_4	.\components\targets\srf05_soc\hal_board.h	117;"	d
+HAL_LED_CLR_4	.\components\targets\srf05_soc\hal_board.h	134;"	d
+HAL_LED_H	.\components\targets\interface\hal_led.h	9;"	d
+HAL_LED_SET_1	.\components\targets\srf05_soc\hal_board.h	109;"	d
+HAL_LED_SET_1	.\components\targets\srf05_soc\hal_board.h	126;"	d
+HAL_LED_SET_2	.\components\targets\srf05_soc\hal_board.h	110;"	d
+HAL_LED_SET_2	.\components\targets\srf05_soc\hal_board.h	127;"	d
+HAL_LED_SET_3	.\components\targets\srf05_soc\hal_board.h	111;"	d
+HAL_LED_SET_3	.\components\targets\srf05_soc\hal_board.h	128;"	d
+HAL_LED_SET_4	.\components\targets\srf05_soc\hal_board.h	112;"	d
+HAL_LED_SET_4	.\components\targets\srf05_soc\hal_board.h	129;"	d
+HAL_LED_TGL_1	.\components\targets\srf05_soc\hal_board.h	119;"	d
+HAL_LED_TGL_1	.\components\targets\srf05_soc\hal_board.h	136;"	d
+HAL_LED_TGL_2	.\components\targets\srf05_soc\hal_board.h	120;"	d
+HAL_LED_TGL_2	.\components\targets\srf05_soc\hal_board.h	137;"	d
+HAL_LED_TGL_3	.\components\targets\srf05_soc\hal_board.h	121;"	d
+HAL_LED_TGL_3	.\components\targets\srf05_soc\hal_board.h	138;"	d
+HAL_LED_TGL_4	.\components\targets\srf05_soc\hal_board.h	122;"	d
+HAL_LED_TGL_4	.\components\targets\srf05_soc\hal_board.h	139;"	d
+HAL_MCU_H	.\components\targets\interface\hal_mcu.h	9;"	d
+HAL_MCU_LITTLE_ENDIAN	.\components\common\hal_types.h	78;"	d
+HAL_MCU_LPM_0	.\components\targets\interface\hal_mcu.h	/^    HAL_MCU_LPM_0,$/;"	e	enum:__anon12
+HAL_MCU_LPM_1	.\components\targets\interface\hal_mcu.h	/^    HAL_MCU_LPM_1,$/;"	e	enum:__anon12
+HAL_MCU_LPM_2	.\components\targets\interface\hal_mcu.h	/^    HAL_MCU_LPM_2,$/;"	e	enum:__anon12
+HAL_MCU_LPM_3	.\components\targets\interface\hal_mcu.h	/^    HAL_MCU_LPM_3,$/;"	e	enum:__anon12
+HAL_MCU_LPM_4	.\components\targets\interface\hal_mcu.h	/^    HAL_MCU_LPM_4$/;"	e	enum:__anon12
+HAL_MCU_RESET_CAUSE_EXTERNAL	.\components\targets\interface\hal_mcu.h	/^    HAL_MCU_RESET_CAUSE_EXTERNAL,$/;"	e	enum:__anon13
+HAL_MCU_RESET_CAUSE_POR	.\components\targets\interface\hal_mcu.h	/^    HAL_MCU_RESET_CAUSE_POR,$/;"	e	enum:__anon13
+HAL_MCU_RESET_CAUSE_WATCHDOG	.\components\targets\interface\hal_mcu.h	/^    HAL_MCU_RESET_CAUSE_WATCHDOG$/;"	e	enum:__anon13
+HAL_PA_LNA_INIT	.\components\radios\cc2530\hal_rf.c	64;"	d	file:
+HAL_PA_LNA_INIT	.\components\radios\cc2530\hal_rf.c	88;"	d	file:
+HAL_PA_LNA_RX_HGM	.\components\radios\cc2530\hal_rf.c	67;"	d	file:
+HAL_PA_LNA_RX_HGM	.\components\radios\cc2530\hal_rf.c	90;"	d	file:
+HAL_PA_LNA_RX_LGM	.\components\radios\cc2530\hal_rf.c	70;"	d	file:
+HAL_PA_LNA_RX_LGM	.\components\radios\cc2530\hal_rf.c	89;"	d	file:
+HAL_POTMETER_ADC_CH	.\components\targets\srf05_soc\hal_board.h	85;"	d
+HAL_POTMETER_ADC_PORT	.\components\targets\srf05_soc\hal_board.h	84;"	d
+HAL_PROCESS	.\components\targets\srf05_soc\hal_board.h	186;"	d
+HAL_RF_CHIP_ID_CC1100	.\components\targets\interface\hal_rf.h	28;"	d
+HAL_RF_CHIP_ID_CC1110	.\components\targets\interface\hal_rf.h	29;"	d
+HAL_RF_CHIP_ID_CC1111	.\components\targets\interface\hal_rf.h	30;"	d
+HAL_RF_CHIP_ID_CC2420	.\components\targets\interface\hal_rf.h	31;"	d
+HAL_RF_CHIP_ID_CC2430	.\components\targets\interface\hal_rf.h	37;"	d
+HAL_RF_CHIP_ID_CC2431	.\components\targets\interface\hal_rf.h	38;"	d
+HAL_RF_CHIP_ID_CC2500	.\components\targets\interface\hal_rf.h	32;"	d
+HAL_RF_CHIP_ID_CC2510	.\components\targets\interface\hal_rf.h	33;"	d
+HAL_RF_CHIP_ID_CC2511	.\components\targets\interface\hal_rf.h	34;"	d
+HAL_RF_CHIP_ID_CC2520	.\components\targets\interface\hal_rf.h	36;"	d
+HAL_RF_CHIP_ID_CC2530	.\components\targets\interface\hal_rf.h	39;"	d
+HAL_RF_CHIP_ID_CC2531	.\components\targets\interface\hal_rf.h	40;"	d
+HAL_RF_CHIP_ID_CC2540	.\components\targets\interface\hal_rf.h	41;"	d
+HAL_RF_CHIP_ID_CC2550	.\components\targets\interface\hal_rf.h	35;"	d
+HAL_RF_GAIN_HIGH	.\components\targets\interface\hal_rf.h	45;"	d
+HAL_RF_GAIN_LOW	.\components\targets\interface\hal_rf.h	44;"	d
+HAL_RF_H	.\components\targets\interface\hal_rf.h	11;"	d
+HAL_RF_SECURITY_H	.\components\targets\interface\hal_rf_security.h	10;"	d
+HAL_RF_TXPOWER_0_DBM	.\components\radios\cc2530\hal_rf.c	73;"	d	file:
+HAL_RF_TXPOWER_0_DBM	.\components\radios\cc2530\hal_rf.c	93;"	d	file:
+HAL_RF_TXPOWER_13_DBM	.\components\radios\cc2530\hal_rf.c	74;"	d	file:
+HAL_RF_TXPOWER_16_DBM	.\components\radios\cc2530\hal_rf.c	75;"	d	file:
+HAL_RF_TXPOWER_18_DBM	.\components\radios\cc2530\hal_rf.c	76;"	d	file:
+HAL_RF_TXPOWER_20_DBM	.\components\radios\cc2530\hal_rf.c	77;"	d	file:
+HAL_RF_TXPOWER_4_DBM	.\components\radios\cc2530\hal_rf.c	94;"	d	file:
+HAL_RF_TXPOWER_MIN_3_DBM	.\components\radios\cc2530\hal_rf.c	92;"	d	file:
+HAL_RTS_CLR	.\components\targets\srf05_soc\hal_board.h	163;"	d
+HAL_RTS_DIR_OUT	.\components\targets\srf05_soc\hal_board.h	165;"	d
+HAL_RTS_SET	.\components\targets\srf05_soc\hal_board.h	161;"	d
+HAL_TIMER_H	.\components\targets\interface\hal_timer_32k.h	42;"	d
+HAL_TYPES_H	.\components\common\hal_types.h	9;"	d
+HAL_UART_7_BIT_DATA	.\components\targets\interface\hal_uart.h	41;"	d
+HAL_UART_8_BIT_DATA	.\components\targets\interface\hal_uart.h	42;"	d
+HAL_UART_BAUDRATE_115200	.\components\targets\interface\hal_uart.h	29;"	d
+HAL_UART_BAUDRATE_19200	.\components\targets\interface\hal_uart.h	26;"	d
+HAL_UART_BAUDRATE_38400	.\components\targets\interface\hal_uart.h	27;"	d
+HAL_UART_BAUDRATE_4800	.\components\targets\interface\hal_uart.h	24;"	d
+HAL_UART_BAUDRATE_57600	.\components\targets\interface\hal_uart.h	28;"	d
+HAL_UART_BAUDRATE_9600	.\components\targets\interface\hal_uart.h	25;"	d
+HAL_UART_EVEN_PARITY	.\components\targets\interface\hal_uart.h	37;"	d
+HAL_UART_H	.\components\targets\interface\hal_uart.h	9;"	d
+HAL_UART_NO_PARITY	.\components\targets\interface\hal_uart.h	36;"	d
+HAL_UART_ODD_PARITY	.\components\targets\interface\hal_uart.h	38;"	d
+HAL_UART_ONE_STOP_BIT	.\components\targets\interface\hal_uart.h	32;"	d
+HAL_UART_TWO_STOP_BITS	.\components\targets\interface\hal_uart.h	33;"	d
+HI_UINT16	.\components\common\hal_defs.h	102;"	d
+HI_UINT32	.\components\common\hal_defs.h	94;"	d
+HI_UINT8	.\components\common\hal_defs.h	110;"	d
+IO_ADC_DIS	.\components\radios\cc2530\adc.h	102;"	d
+IO_ADC_EN	.\components\radios\cc2530\adc.h	101;"	d
+IO_ADC_PORT0_PIN	.\components\radios\cc2530\adc.h	94;"	d
+IRQ_RXPKTDONE	.\components\radios\cc2530\hal_rf.c	50;"	d	file:
+IRQ_TXDONE	.\components\radios\cc2530\hal_rf.c	49;"	d	file:
+ISFLUSHRX	.\components\radios\cc2530\hal_rf.c	57;"	d	file:
+ISFLUSHTX	.\components\radios\cc2530\hal_rf.c	58;"	d	file:
+ISRFOFF	.\components\radios\cc2530\hal_rf.c	56;"	d	file:
+ISRXON	.\components\radios\cc2530\hal_rf.c	53;"	d	file:
+ISR_FUNC_PTR	.\components\common\hal_types.h	/^typedef void (*ISR_FUNC_PTR)(void);$/;"	t
+ISTXON	.\components\radios\cc2530\hal_rf.c	54;"	d	file:
+ISTXONCCA	.\components\radios\cc2530\hal_rf.c	55;"	d	file:
+IV	.\components\radios\cc2530\hal_rf_security.c	/^static  uint8 IV[16];$/;"	v	file:
+JOYSTICK_DOWN_BM	.\components\targets\srf05_soc\hal_joystick.c	28;"	d	file:
+JOYSTICK_LEFT_BM	.\components\targets\srf05_soc\hal_joystick.c	29;"	d	file:
+JOYSTICK_RIGHT_BM	.\components\targets\srf05_soc\hal_joystick.c	30;"	d	file:
+JOYSTICK_UP_BM	.\components\targets\srf05_soc\hal_joystick.c	27;"	d	file:
+KEY_LENGTH	.\components\targets\interface\hal_rf_security.h	27;"	d
+LCD_CTRL_INIT_PORTS	.\components\targets\srf05_soc\hal_board.h	182;"	d
+LCD_DO_CONTROL	.\components\targets\srf05_soc\hal_board.h	179;"	d
+LCD_DO_WRITE	.\components\targets\srf05_soc\hal_board.h	178;"	d
+LCD_LINE_COUNT	.\components\common\hal_lcd_srf05.c	86;"	d	file:
+LCD_LINE_LENGTH	.\components\common\hal_lcd_srf05.c	87;"	d	file:
+LCD_SPI_BEGIN	.\components\targets\srf05_soc\hal_board.h	170;"	d
+LCD_SPI_END	.\components\targets\srf05_soc\hal_board.h	174;"	d
+LCD_SPI_RX	.\components\targets\srf05_soc\hal_board.h	172;"	d
+LCD_SPI_TX	.\components\targets\srf05_soc\hal_board.h	171;"	d
+LCD_SPI_WAIT_RXRDY	.\components\targets\srf05_soc\hal_board.h	173;"	d
+LINE1	.\components\common\hal_lcd_srf05.c	44;"	d	file:
+LINE2	.\components\common\hal_lcd_srf05.c	45;"	d	file:
+LINE3	.\components\common\hal_lcd_srf05.c	46;"	d	file:
+LINE4	.\components\common\hal_lcd_srf05.c	47;"	d	file:
+LINE_1_AND_2	.\components\common\hal_lcd_srf05.c	80;"	d	file:
+LINE_2_AND_3	.\components\common\hal_lcd_srf05.c	81;"	d	file:
+LO_UINT16	.\components\common\hal_defs.h	103;"	d
+LO_UINT32	.\components\common\hal_defs.h	95;"	d
+LO_UINT8	.\components\common\hal_defs.h	111;"	d
+MAX	.\components\common\hal_defs.h	76;"	d
+MAX_CHANNEL	.\components\targets\interface\hal_rf.h	49;"	d
+MCU_IO_DIR_INPUT	.\components\common\cc8051\hal_cc8051.h	52;"	d
+MCU_IO_DIR_INPUT_PREP	.\components\common\cc8051\hal_cc8051.h	87;"	d
+MCU_IO_DIR_OUTPUT	.\components\common\cc8051\hal_cc8051.h	53;"	d
+MCU_IO_DIR_OUTPUT_PREP	.\components\common\cc8051\hal_cc8051.h	88;"	d
+MCU_IO_GET	.\components\common\cc8051\hal_cc8051.h	50;"	d
+MCU_IO_GET_PREP	.\components\common\cc8051\hal_cc8051.h	85;"	d
+MCU_IO_INPUT	.\components\common\cc8051\hal_cc8051.h	44;"	d
+MCU_IO_INPUT_PREP	.\components\common\cc8051\hal_cc8051.h	61;"	d
+MCU_IO_OUTPUT	.\components\common\cc8051\hal_cc8051.h	45;"	d
+MCU_IO_OUTPUT_PREP	.\components\common\cc8051\hal_cc8051.h	76;"	d
+MCU_IO_PERIPHERAL	.\components\common\cc8051\hal_cc8051.h	43;"	d
+MCU_IO_PERIPHERAL_PREP	.\components\common\cc8051\hal_cc8051.h	59;"	d
+MCU_IO_PULLDOWN	.\components\common\cc8051\hal_cc8051.h	37;"	d
+MCU_IO_PULLUP	.\components\common\cc8051\hal_cc8051.h	36;"	d
+MCU_IO_SET	.\components\common\cc8051\hal_cc8051.h	46;"	d
+MCU_IO_SET_HIGH	.\components\common\cc8051\hal_cc8051.h	47;"	d
+MCU_IO_SET_HIGH_PREP	.\components\common\cc8051\hal_cc8051.h	80;"	d
+MCU_IO_SET_LOW	.\components\common\cc8051\hal_cc8051.h	48;"	d
+MCU_IO_SET_LOW_PREP	.\components\common\cc8051\hal_cc8051.h	81;"	d
+MCU_IO_SET_PREP	.\components\common\cc8051\hal_cc8051.h	83;"	d
+MCU_IO_TGL	.\components\common\cc8051\hal_cc8051.h	49;"	d
+MCU_IO_TGL_PREP	.\components\common\cc8051\hal_cc8051.h	84;"	d
+MCU_IO_TRISTATE	.\components\common\cc8051\hal_cc8051.h	35;"	d
+MENU_ID_APP	.\components\utils\util_menu.h	29;"	d
+MENU_ID_HAL	.\components\utils\util_menu.h	33;"	d
+MENU_ID_NWK	.\components\utils\util_menu.h	32;"	d
+MENU_ID_ROOT	.\components\utils\util_menu.h	31;"	d
+MIC_2_MICLEN	.\components\radios\cc2530\hal_rf_security.c	55;"	d	file:
+MIN	.\components\common\hal_defs.h	72;"	d
+MIN_CHANNEL	.\components\targets\interface\hal_rf.h	48;"	d
+Menu	.\components\utils\util_menu.h	/^} Menu;$/;"	t	typeref:struct:_menuItem
+MenuItem	.\components\utils\util_menu.h	/^} MenuItem;$/;"	t	typeref:struct:__anon17
+NONCE_LENGTH	.\components\targets\interface\hal_rf_security.h	28;"	d
+NONCE_SIZE	.\components\basicrf\basic_rf_security.c	21;"	d	file:
+NOP	.\components\common\hal_types.h	101;"	d
+NOP	.\components\common\hal_types.h	55;"	d
+NOP	.\components\common\hal_types.h	76;"	d
+NORMAL_DISPLAY	.\components\common\hal_lcd_srf05.c	82;"	d	file:
+NULL	.\components\common\hal_defs.h	32;"	d
+NUM_BUTTONS	.\components\targets\srf05_soc\hal_board.h	41;"	d
+NUM_JSTKS	.\components\targets\srf05_soc\hal_board.h	42;"	d
+NUM_LEDS	.\components\targets\srf05_soc\hal_board.h	40;"	d
+NUM_POTS	.\components\targets\srf05_soc\hal_board.h	43;"	d
+N_ITEMS	.\components\utils\util.h	39;"	d
+N_MAX_MENUES	.\components\utils\util_menu.h	34;"	d
+OSC_OFF	.\components\common\hal_lcd_srf05.c	28;"	d	file:
+OSC_ON	.\components\common\hal_lcd_srf05.c	29;"	d	file:
+PICTL_P0ICON_BM	.\components\targets\srf05_soc\hal_digio.c	35;"	d	file:
+PICTL_P0ICON_BM	.\components\targets\srf05_soc\hal_digio.c	45;"	d	file:
+PICTL_P0IENH_BM	.\components\targets\srf05_soc\hal_digio.c	31;"	d	file:
+PICTL_P0IENH_BM	.\components\targets\srf05_soc\hal_digio.c	39;"	d	file:
+PICTL_P0IENL_BM	.\components\targets\srf05_soc\hal_digio.c	32;"	d	file:
+PICTL_P0IENL_BM	.\components\targets\srf05_soc\hal_digio.c	40;"	d	file:
+PICTL_P1ICONH_BM	.\components\targets\srf05_soc\hal_digio.c	42;"	d	file:
+PICTL_P1ICONL_BM	.\components\targets\srf05_soc\hal_digio.c	43;"	d	file:
+PICTL_P1ICON_BM	.\components\targets\srf05_soc\hal_digio.c	34;"	d	file:
+PICTL_P1ICON_BM	.\components\targets\srf05_soc\hal_digio.c	44;"	d	file:
+PICTL_P2ICON_BM	.\components\targets\srf05_soc\hal_digio.c	33;"	d	file:
+PICTL_P2ICON_BM	.\components\targets\srf05_soc\hal_digio.c	41;"	d	file:
+PICTL_P2IEN_BM	.\components\targets\srf05_soc\hal_digio.c	30;"	d	file:
+PICTL_P2IEN_BM	.\components\targets\srf05_soc\hal_digio.c	38;"	d	file:
+PICTL_PADSC_BM	.\components\targets\srf05_soc\hal_digio.c	29;"	d	file:
+PICTL_PADSC_BM	.\components\targets\srf05_soc\hal_digio.c	37;"	d	file:
+PKT_LEN_AUTH	.\components\basicrf\basic_rf.c	34;"	d	file:
+PKT_LEN_ENCR	.\components\basicrf\basic_rf.c	35;"	d	file:
+PKT_LEN_MIC	.\components\basicrf\basic_rf.c	32;"	d	file:
+PKT_LEN_SEC	.\components\basicrf\basic_rf.c	33;"	d	file:
+POWER_SAVE_OFF	.\components\common\hal_lcd_srf05.c	30;"	d	file:
+POWER_SAVE_ON	.\components\common\hal_lcd_srf05.c	31;"	d	file:
+REV_A	.\components\radios\cc2530\hal_rf.c	25;"	d	file:
+RSSI_OFFSET	.\components\radios\cc2530\hal_rf.c	29;"	d	file:
+RSSI_OFFSET_LNA_HIGHGAIN	.\components\radios\cc2530\hal_rf.c	30;"	d	file:
+RSSI_OFFSET_LNA_LOWGAIN	.\components\radios\cc2530\hal_rf.c	31;"	d	file:
+SECURITY_CONTROL	.\components\targets\interface\hal_rf_security.h	30;"	d
+SET_BIAS_CTRL	.\components\common\hal_lcd_srf05.c	53;"	d	file:
+SET_DDRAM_ADDR	.\components\common\hal_lcd_srf05.c	72;"	d	file:
+SET_DISPLAY_CTRL	.\components\common\hal_lcd_srf05.c	69;"	d	file:
+SET_DISPLAY_START_LINE	.\components\common\hal_lcd_srf05.c	48;"	d	file:
+SET_DOUBLE_HEIGHT	.\components\common\hal_lcd_srf05.c	83;"	d	file:
+SET_GCRAM_CHAR	.\components\common\hal_lcd_srf05.c	73;"	d	file:
+SET_ICONRAM_ADDR	.\components\common\hal_lcd_srf05.c	77;"	d	file:
+SET_POWER_CTRL	.\components\common\hal_lcd_srf05.c	60;"	d	file:
+SET_POWER_SAVE_MODE	.\components\common\hal_lcd_srf05.c	32;"	d	file:
+SLEEP_HFRC_STB_BM	.\components\radios\cc2530\clock.h	57;"	d
+SLEEP_OSC_PD_BM	.\components\radios\cc2530\clock.h	58;"	d
+SLEEP_XOSC_STB_BM	.\components\radios\cc2530\clock.h	56;"	d
+SPI_CLOCK_PHA_0	.\components\targets\srf05_soc\hal_board.c	26;"	d	file:
+SPI_CLOCK_PHA_1	.\components\targets\srf05_soc\hal_board.c	27;"	d	file:
+SPI_CLOCK_POL_HI	.\components\targets\srf05_soc\hal_board.c	25;"	d	file:
+SPI_CLOCK_POL_LO	.\components\targets\srf05_soc\hal_board.c	24;"	d	file:
+SPI_TRANSFER_MSB_FIRST	.\components\targets\srf05_soc\hal_board.c	28;"	d	file:
+SPI_TRANSFER_MSB_LAST	.\components\targets\srf05_soc\hal_board.c	29;"	d	file:
+SRF05EB	.\components\utils\util_lcd.c	32;"	d	file:
+SUCCESS	.\components\common\hal_defs.h	40;"	d
+THREE_LINE	.\components\common\hal_lcd_srf05.c	40;"	d	file:
+TICKSPD_DIV_1	.\components\radios\cc2530\clock.h	46;"	d
+TICKSPD_DIV_128	.\components\radios\cc2530\clock.h	53;"	d
+TICKSPD_DIV_16	.\components\radios\cc2530\clock.h	50;"	d
+TICKSPD_DIV_2	.\components\radios\cc2530\clock.h	47;"	d
+TICKSPD_DIV_32	.\components\radios\cc2530\clock.h	51;"	d
+TICKSPD_DIV_4	.\components\radios\cc2530\clock.h	48;"	d
+TICKSPD_DIV_64	.\components\radios\cc2530\clock.h	52;"	d
+TICKSPD_DIV_8	.\components\radios\cc2530\clock.h	49;"	d
+TIMER_32K_CLK_FREQ	.\components\targets\interface\hal_timer_32k.h	56;"	d
+TRUE	.\components\common\hal_defs.h	16;"	d
+TWO_LINE	.\components\common\hal_lcd_srf05.c	39;"	d	file:
+UINT16_HTON	.\components\common\hal_defs.h	117;"	d
+UINT16_HTON	.\components\common\hal_defs.h	123;"	d
+UINT16_NTOH	.\components\common\hal_defs.h	118;"	d
+UINT16_NTOH	.\components\common\hal_defs.h	124;"	d
+UINT32_HTON	.\components\common\hal_defs.h	120;"	d
+UINT32_HTON	.\components\common\hal_defs.h	126;"	d
+UINT32_NTOH	.\components\common\hal_defs.h	121;"	d
+UINT32_NTOH	.\components\common\hal_defs.h	127;"	d
+UTIL_BUFFER_H	.\components\utils\util_buffer.h	9;"	d
+UTIL_H	.\components\utils\util.h	10;"	d
+UTIL_LCD_H	.\components\utils\util_lcd.h	10;"	d
+UTIL_MENU_H	.\components\utils\util_menu.h	10;"	d
+UTIL_RF	.\components\targets\interface\hal_rf_util.h	15;"	d
+VFPTR	.\components\common\hal_types.h	/^typedef void (*VFPTR)(void);$/;"	t
+VOLTAGE_DIVIDER_OFF	.\components\common\hal_lcd_srf05.c	56;"	d	file:
+VOLTAGE_DIVIDER_ON	.\components\common\hal_lcd_srf05.c	57;"	d	file:
+XDATA	.\components\common\hal_types.h	123;"	d
+XDATA	.\components\common\hal_types.h	135;"	d
+XDATA	.\components\common\hal_types.h	52;"	d
+XDATA	.\components\common\hal_types.h	72;"	d
+XDATA	.\components\common\hal_types.h	99;"	d
+_ADC_H	.\components\radios\cc2530\adc.h	10;"	d
+_CLOCK_H	.\components\radios\cc2530\clock.h	9;"	d
+_PRAGMA	.\components\common\hal_types.h	44;"	d
+__code	.\components\common\hal_types.h	113;"	d
+__xdata	.\components\common\hal_types.h	114;"	d
+_menuItem	.\components\utils\util_menu.h	/^typedef struct _menuItem {$/;"	s
+ackReceived	.\components\basicrf\basic_rf.c	/^    volatile uint8 ackReceived;$/;"	m	struct:__anon2	file:
+ackRequest	.\components\basicrf\basic_rf.c	/^    uint8 ackRequest;$/;"	m	struct:__anon1	file:
+ackRequest	.\components\basicrf\basic_rf.h	/^    uint8 ackRequest;$/;"	m	struct:__anon4
+adcSampleSingle	.\components\radios\cc2530\adc.c	/^int16 adcSampleSingle(uint8 reference, uint8 resolution, uint8 channel)$/;"	f
+basicRfBuildHeader	.\components\basicrf\basic_rf.c	/^static uint8 basicRfBuildHeader(uint8* buffer, uint16 destAddr, uint8 payloadLength)$/;"	f	file:
+basicRfBuildMpdu	.\components\basicrf\basic_rf.c	/^static uint8 basicRfBuildMpdu(uint16 destAddr, uint8* pPayload, uint8 payloadLength)$/;"	f	file:
+basicRfCfg_t	.\components\basicrf\basic_rf.h	/^} basicRfCfg_t;$/;"	t	typeref:struct:__anon4
+basicRfGetRssi	.\components\basicrf\basic_rf.c	/^int8 basicRfGetRssi(void)$/;"	f
+basicRfInit	.\components\basicrf\basic_rf.c	/^uint8 basicRfInit(basicRfCfg_t* pRfConfig)$/;"	f
+basicRfPacketIsReady	.\components\basicrf\basic_rf.c	/^uint8 basicRfPacketIsReady(void)$/;"	f
+basicRfPktHdr_t	.\components\basicrf\basic_rf.c	/^} basicRfPktHdr_t;$/;"	t	typeref:struct:__anon3	file:
+basicRfReceive	.\components\basicrf\basic_rf.c	/^uint8 basicRfReceive(uint8* pRxData, uint8 len, int16* pRssi)$/;"	f
+basicRfReceiveOff	.\components\basicrf\basic_rf.c	/^void basicRfReceiveOff(void)$/;"	f
+basicRfReceiveOn	.\components\basicrf\basic_rf.c	/^void basicRfReceiveOn(void)$/;"	f
+basicRfRxFrmDoneIsr	.\components\basicrf\basic_rf.c	/^static void basicRfRxFrmDoneIsr(void)$/;"	f	file:
+basicRfRxInfo_t	.\components\basicrf\basic_rf.c	/^} basicRfRxInfo_t;$/;"	t	typeref:struct:__anon1	file:
+basicRfSecurityInit	.\components\basicrf\basic_rf_security.c	/^void basicRfSecurityInit(basicRfCfg_t* pConfig)$/;"	f
+basicRfSendPacket	.\components\basicrf\basic_rf.c	/^uint8 basicRfSendPacket(uint16 destAddr, uint8* pPayload, uint8 length)$/;"	f
+basicRfTxState_t	.\components\basicrf\basic_rf.c	/^} basicRfTxState_t;$/;"	t	typeref:struct:__anon2	file:
+buf	.\components\radios\cc2530\hal_rf_security.c	/^static  uint8 buf[128];$/;"	v	file:
+bufFlush	.\components\utils\util_buffer.h	44;"	d
+bufGet	.\components\utils\util_buffer.c	/^uint8 bufGet(ringBuf_t *pBuf, uint8 *pData, uint8 nBytes)$/;"	f
+bufInit	.\components\utils\util_buffer.c	/^void bufInit(ringBuf_t *pBuf)$/;"	f
+bufNumBytes	.\components\utils\util_buffer.c	/^uint8 bufNumBytes(ringBuf_t *pBuf)$/;"	f
+bufPeek	.\components\utils\util_buffer.c	/^uint8 bufPeek(ringBuf_t *pBuf, uint8 *pData, uint8 nBytes)$/;"	f
+bufPut	.\components\utils\util_buffer.c	/^uint8 bufPut(ringBuf_t *pBuf, const uint8 *pData, uint8 nBytes)$/;"	f
+channel	.\components\basicrf\basic_rf.h	/^    uint8 channel;$/;"	m	struct:__anon4
+cipherText	.\components\radios\cc2530\hal_rf_security.c	/^static  uint8 cipherText[128];$/;"	v	file:
+clockSelect32k	.\components\radios\cc2530\clock.c	/^uint8 clockSelect32k(uint8 source)$/;"	f
+clockSetMainSrc	.\components\radios\cc2530\clock.c	/^void clockSetMainSrc(uint8 source)$/;"	f
+cmd	.\components\utils\util_menu.h	/^    uint8 cmd;				\/\/ Single key user command$/;"	m	struct:__anon17
+convInt32ToText	.\components\utils\util.c	/^char* convInt32ToText(int32 value)$/;"	f
+destAddr	.\components\basicrf\basic_rf.c	/^    uint16  destAddr;$/;"	m	struct:__anon3	file:
+digioConfig	.\components\targets\interface\hal_digio.h	/^} digioConfig;$/;"	t	typeref:struct:__anon8
+dir	.\components\targets\interface\hal_digio.h	/^    uint8 dir;      \/\/ direction (input or output)$/;"	m	struct:__anon8
+fcf0	.\components\basicrf\basic_rf.c	/^    uint8   fcf0;           \/\/ Frame control field LSB$/;"	m	struct:__anon3	file:
+fcf1	.\components\basicrf\basic_rf.c	/^    uint8   fcf1;           \/\/ Frame control field MSB$/;"	m	struct:__anon3	file:
+fptr	.\components\radios\cc2530\hal_timer_32k.c	/^static ISR_FUNC_PTR fptr;$/;"	v	file:
+frameCounter	.\components\basicrf\basic_rf.c	/^    uint32 frameCounter;$/;"	m	struct:__anon2	file:
+frameCounter	.\components\basicrf\basic_rf.c	/^    uint8  frameCounter[4];$/;"	m	struct:__anon3	file:
+generateAuthData	.\components\radios\cc2530\hal_rf_security.c	/^static uint8 generateAuthData(uint8 c, uint8 *pIv, uint8 *pData, uint8 f, uint8 lm)$/;"	f	file:
+halAesDecrypt	.\components\radios\cc2530\hal_rf_security.c	/^static void halAesDecrypt(uint8 mode, uint8 *pDataIn, uint16 length, uint8 *pDataOut, uint8 *pInitVector)$/;"	f	file:
+halAesEncrypt	.\components\radios\cc2530\hal_rf_security.c	/^static void halAesEncrypt(uint8 mode, uint8 *pDataIn, uint16 length, uint8 *pDataOut, uint8 *pInitVector)$/;"	f	file:
+halAesLoadBlock	.\components\radios\cc2530\hal_rf_security.c	/^static void halAesLoadBlock(uint8* pData, uint8 op)$/;"	f	file:
+halAesOperation	.\components\radios\cc2530\hal_rf_security.c	/^static void halAesOperation(uint8 oper,uint8 *pDataIn, uint16 length, uint8 *pDataOut, uint8 *pInitVector)$/;"	f	file:
+halAssertHandler	.\components\targets\srf05_soc\hal_assert.c	/^void halAssertHandler(void)$/;"	f
+halBoardInit	.\components\targets\srf05_soc\hal_board.c	/^void halBoardInit(void)$/;"	f
+halButtonInit	.\components\targets\srf05_soc\hal_button.c	/^void halButtonInit(void)$/;"	f
+halButtonPushed	.\components\targets\srf05_soc\hal_button.c	/^uint8 halButtonPushed(void)$/;"	f
+halDigioClear	.\components\targets\srf05_soc\hal_digio.c	/^uint8 halDigioClear(const digioConfig* p)$/;"	f
+halDigioConfig	.\components\targets\srf05_soc\hal_digio.c	/^uint8 halDigioConfig(const digioConfig* p)$/;"	f
+halDigioGet	.\components\targets\srf05_soc\hal_digio.c	/^uint8 halDigioGet(const digioConfig* p)$/;"	f
+halDigioIntClear	.\components\targets\srf05_soc\hal_digio.c	/^uint8 halDigioIntClear(const digioConfig *p)$/;"	f
+halDigioIntConnect	.\components\targets\srf05_soc\hal_digio.c	/^uint8 halDigioIntConnect(const digioConfig *p, ISR_FUNC_PTR func)$/;"	f
+halDigioIntDisable	.\components\targets\srf05_soc\hal_digio.c	/^uint8 halDigioIntDisable(const digioConfig *p)$/;"	f
+halDigioIntEnable	.\components\targets\srf05_soc\hal_digio.c	/^uint8 halDigioIntEnable(const digioConfig *p)$/;"	f
+halDigioIntSetEdge	.\components\targets\srf05_soc\hal_digio.c	/^uint8 halDigioIntSetEdge(const digioConfig *p, uint8 edge)$/;"	f
+halDigioSet	.\components\targets\srf05_soc\hal_digio.c	/^uint8 halDigioSet(const digioConfig* p)$/;"	f
+halDigioToggle	.\components\targets\srf05_soc\hal_digio.c	/^uint8 halDigioToggle(const digioConfig* p)$/;"	f
+halIntLock	.\components\common\hal_int.c	/^uint16 halIntLock(void)$/;"	f
+halIntOff	.\components\common\hal_int.c	/^void halIntOff(void)$/;"	f
+halIntOn	.\components\common\hal_int.c	/^void halIntOn(void)$/;"	f
+halIntUnlock	.\components\common\hal_int.c	/^void halIntUnlock(uint16 key)$/;"	f
+halJoystickGetDir	.\components\targets\srf05_soc\hal_joystick.c	/^uint8 halJoystickGetDir(void)$/;"	f
+halJoystickInit	.\components\targets\srf05_soc\hal_joystick.c	/^void halJoystickInit(void)$/;"	f
+halJoystickIntClear	.\components\targets\srf05_soc\hal_joystick.c	/^void halJoystickIntClear(void)$/;"	f
+halJoystickIntConnect	.\components\targets\srf05_soc\hal_joystick.c	/^uint8 halJoystickIntConnect(uint8 event, ISR_FUNC_PTR func)$/;"	f
+halJoystickIntDisable	.\components\targets\srf05_soc\hal_joystick.c	/^void halJoystickIntDisable(void)$/;"	f
+halJoystickIntEnable	.\components\targets\srf05_soc\hal_joystick.c	/^uint8 halJoystickIntEnable(uint8 event)$/;"	f
+halJoystickMoveISR	.\components\targets\srf05_soc\hal_joystick.c	/^static void halJoystickMoveISR(void)$/;"	f	file:
+halJoystickPushed	.\components\targets\srf05_soc\hal_joystick.c	/^uint8 halJoystickPushed(void)$/;"	f
+halLcdClear	.\components\common\hal_lcd_srf05.c	/^void halLcdClear(void)$/;"	f
+halLcdClearAllSpecChars	.\components\common\hal_lcd_srf05.c	/^void halLcdClearAllSpecChars(void)$/;"	f
+halLcdCreateSpecChar	.\components\common\hal_lcd_srf05.c	/^void halLcdCreateSpecChar(uint8 index, const char XDATA *p5x8Spec)$/;"	f
+halLcdDisplayCounters	.\components\common\hal_lcd_srf05.c	/^void halLcdDisplayCounters(uint8 line, int32 lValue, char lChar,$/;"	f
+halLcdDisplayUint16	.\components\common\hal_lcd_srf05.c	/^void halLcdDisplayUint16(uint8 line, uint8 radix, uint16 value)$/;"	f
+halLcdDisplayValue	.\components\common\hal_lcd_srf05.c	/^void halLcdDisplayValue(uint8 line, char XDATA *pLeft, int32 value,$/;"	f
+halLcdGetLineLength	.\components\common\hal_lcd_srf05.c	/^uint8 halLcdGetLineLength(void)$/;"	f
+halLcdGetNumLines	.\components\common\hal_lcd_srf05.c	/^uint8 halLcdGetNumLines(void)$/;"	f
+halLcdInit	.\components\common\hal_lcd_srf05.c	/^void halLcdInit(void)$/;"	f
+halLcdSetContrast	.\components\common\hal_lcd_srf05.c	/^void halLcdSetContrast(uint8 value)$/;"	f
+halLcdSpiDis	.\components\targets\srf05_soc\hal_board.c	/^void halLcdSpiDis(void)$/;"	f
+halLcdSpiEna	.\components\targets\srf05_soc\hal_board.c	/^void halLcdSpiEna(void)$/;"	f
+halLcdSpiInit	.\components\targets\srf05_soc\hal_board.c	/^void halLcdSpiInit(void)$/;"	f
+halLcdWriteChar	.\components\common\hal_lcd_srf05.c	/^void halLcdWriteChar(uint8 line, uint8 col, char text)$/;"	f
+halLcdWriteLine	.\components\common\hal_lcd_srf05.c	/^void halLcdWriteLine(uint8 line, const char XDATA *pLine)$/;"	f
+halLcdWriteLines	.\components\common\hal_lcd_srf05.c	/^void halLcdWriteLines(const char XDATA *pLine1, const char XDATA *pLine2,$/;"	f
+halLcdWriteSpecChar	.\components\common\hal_lcd_srf05.c	/^void halLcdWriteSpecChar(uint8 line, uint8 col, uint8 index)$/;"	f
+halLedClear	.\components\targets\srf05_soc\hal_led.c	/^void halLedClear(uint8 id)$/;"	f
+halLedSet	.\components\targets\srf05_soc\hal_led.c	/^void halLedSet(uint8 id)$/;"	f
+halLedToggle	.\components\targets\srf05_soc\hal_led.c	/^void halLedToggle(uint8 id)$/;"	f
+halMcuInit	.\components\radios\cc2530\hal_mcu.c	/^void halMcuInit(void)$/;"	f
+halMcuReset	.\components\radios\cc2530\hal_mcu.c	/^void halMcuReset(void)$/;"	f
+halMcuSetLowPowerMode	.\components\radios\cc2530\hal_mcu.c	/^void halMcuSetLowPowerMode(uint8 mode)$/;"	f
+halMcuWaitMs	.\components\radios\cc2530\hal_mcu.c	/^void halMcuWaitMs(uint16 msec)$/;"	f
+halMcuWaitUs	.\components\radios\cc2530\hal_mcu.c	/^void halMcuWaitUs(uint16 usec)$/;"	f
+halPaLnaInit	.\components\radios\cc2530\hal_rf.c	/^static void halPaLnaInit(void)$/;"	f	file:
+halRfAppendTxBuf	.\components\radios\cc2530\hal_rf.c	/^void halRfAppendTxBuf(uint8* pData, uint8 length)$/;"	f
+halRfDisableRxInterrupt	.\components\radios\cc2530\hal_rf.c	/^void halRfDisableRxInterrupt(void)$/;"	f
+halRfEnableRxInterrupt	.\components\radios\cc2530\hal_rf.c	/^void halRfEnableRxInterrupt(void)$/;"	f
+halRfGetChipId	.\components\radios\cc2530\hal_rf.c	/^uint8 halRfGetChipId(void)$/;"	f
+halRfGetChipVer	.\components\radios\cc2530\hal_rf.c	/^uint8 halRfGetChipVer(void)$/;"	f
+halRfGetRandomByte	.\components\radios\cc2530\hal_rf.c	/^uint8 halRfGetRandomByte(void)$/;"	f
+halRfGetRssiOffset	.\components\radios\cc2530\hal_rf.c	/^uint8 halRfGetRssiOffset(void)$/;"	f
+halRfIncNonceTx	.\components\radios\cc2530\hal_rf_security.c	/^void halRfIncNonceTx(void)$/;"	f
+halRfInit	.\components\radios\cc2530\hal_rf.c	/^uint8 halRfInit(void)$/;"	f
+halRfReadMemory	.\components\radios\cc2530\hal_rf.c	/^uint8 halRfReadMemory(uint16 addr, uint8* pData, uint8 length)$/;"	f
+halRfReadRxBuf	.\components\radios\cc2530\hal_rf.c	/^void halRfReadRxBuf(uint8* pData, uint8 length)$/;"	f
+halRfReadRxBufSecure	.\components\radios\cc2530\hal_rf_security.c	/^uint8 halRfReadRxBufSecure(uint8* data, uint8 length, uint8 c, uint8 f, uint8 m)$/;"	f
+halRfReceiveOff	.\components\radios\cc2530\hal_rf.c	/^void halRfReceiveOff(void)$/;"	f
+halRfReceiveOn	.\components\radios\cc2530\hal_rf.c	/^void halRfReceiveOn(void)$/;"	f
+halRfRxInterruptConfig	.\components\radios\cc2530\hal_rf.c	/^void halRfRxInterruptConfig(ISR_FUNC_PTR pf)$/;"	f
+halRfSecurityInit	.\components\radios\cc2530\hal_rf_security.c	/^void halRfSecurityInit(uint8* pKey, uint8* pNonceRx, uint8* pNonceTx)$/;"	f
+halRfSetChannel	.\components\radios\cc2530\hal_rf.c	/^void halRfSetChannel(uint8 channel)$/;"	f
+halRfSetGain	.\components\radios\cc2530\hal_rf.c	/^void halRfSetGain(uint8 gainMode)$/;"	f
+halRfSetPanId	.\components\radios\cc2530\hal_rf.c	/^void halRfSetPanId(uint16 panId)$/;"	f
+halRfSetShortAddr	.\components\radios\cc2530\hal_rf.c	/^void halRfSetShortAddr(uint16 shortAddr)$/;"	f
+halRfSetTxPower	.\components\radios\cc2530\hal_rf.c	/^uint8 halRfSetTxPower(uint8 power)$/;"	f
+halRfTransmit	.\components\radios\cc2530\hal_rf.c	/^uint8 halRfTransmit(void)$/;"	f
+halRfWaitTransceiverReady	.\components\radios\cc2530\hal_rf.c	/^void halRfWaitTransceiverReady(void)$/;"	f
+halRfWriteMemory	.\components\radios\cc2530\hal_rf.c	/^uint8 halRfWriteMemory(uint16 addr, uint8* pData, uint8 length)$/;"	f
+halRfWriteTxBuf	.\components\radios\cc2530\hal_rf.c	/^void halRfWriteTxBuf(uint8* pData, uint8 length)$/;"	f
+halRfWriteTxBufSecure	.\components\radios\cc2530\hal_rf_security.c	/^void halRfWriteTxBufSecure(uint8* pPkt, uint8 length, uint8 c, uint8 f, uint8 m)$/;"	f
+halSampleED	.\components\radios\cc2530\hal_rf_util.c	/^int8 halSampleED(uint8 channel, uint16 sampleTime)$/;"	f
+halSetRxScanMode	.\components\radios\cc2530\hal_rf_util.c	/^void halSetRxScanMode(void)$/;"	f
+halTimer32kInit	.\components\radios\cc2530\hal_timer_32k.c	/^void halTimer32kInit(uint16 cycles)$/;"	f
+halTimer32kIntConnect	.\components\radios\cc2530\hal_timer_32k.c	/^void halTimer32kIntConnect(ISR_FUNC_PTR isr)$/;"	f
+halTimer32kIntDisable	.\components\radios\cc2530\hal_timer_32k.c	/^void halTimer32kIntDisable(void)$/;"	f
+halTimer32kIntEnable	.\components\radios\cc2530\hal_timer_32k.c	/^void halTimer32kIntEnable(void)$/;"	f
+halTimer32kRestart	.\components\radios\cc2530\hal_timer_32k.c	/^void halTimer32kRestart(void)$/;"	f
+hex	.\components\common\hal_lcd_srf05.c	/^static const char hex[] = {'0','1','2','3','4','5','6','7','8','9','A','B','C','D','E','F'};$/;"	v	file:
+hex	.\components\utils\util_lcd.c	/^static const char hex[] = {'0','1','2','3','4','5','6','7','8','9','A','B','C','D','E','F'};$/;"	v	file:
+iHead	.\components\utils\util_buffer.h	/^    volatile uint8 iHead;$/;"	m	struct:__anon16
+iTail	.\components\utils\util_buffer.h	/^    volatile uint8 iTail;$/;"	m	struct:__anon16
+initval	.\components\targets\interface\hal_digio.h	/^    uint8 initval;  \/\/ initial value$/;"	m	struct:__anon8
+int16	.\components\common\hal_types.h	/^typedef signed   short  int16;$/;"	t
+int32	.\components\common\hal_types.h	/^typedef signed   long   int32;$/;"	t
+int8	.\components\common\hal_types.h	/^typedef signed   char   int8;$/;"	t
+isReady	.\components\basicrf\basic_rf.c	/^    volatile uint8 isReady;$/;"	m	struct:__anon1	file:
+istate_t	.\components\common\hal_types.h	/^typedef unsigned short istate_t;$/;"	t
+istate_t	.\components\targets\interface\hal_int.h	/^typedef unsigned short istate_t;$/;"	t
+joystick_isr_tbl	.\components\targets\srf05_soc\hal_joystick.c	/^static ISR_FUNC_PTR joystick_isr_tbl[HAL_JOYSTICK_EVT_MAX] = {0};$/;"	v	file:
+lcdControl	.\components\common\hal_lcd_srf05.c	/^static void lcdControl(uint8 command)$/;"	f	file:
+lcdWrite	.\components\common\hal_lcd_srf05.c	/^static void lcdWrite(uint8 ch)$/;"	f	file:
+lcdWriteLine	.\components\common\hal_lcd_srf05.c	/^static void lcdWriteLine(uint8 line, const char XDATA *pText)$/;"	f	file:
+lcdWriteMany	.\components\common\hal_lcd_srf05.c	/^static void lcdWriteMany(const char XDATA *pData, uint16 count)$/;"	f	file:
+led4State	.\components\targets\srf05_soc\hal_led.c	/^volatile uint8 led4State=0;$/;"	v
+length	.\components\basicrf\basic_rf.c	/^    int8 length;$/;"	m	struct:__anon1	file:
+main	.\hello.c	/^void main(void)$/;"	f
+menuItem_t	.\components\utils\util.h	/^} menuItem_t;$/;"	t	typeref:struct:__anon14
+menu_t	.\components\utils\util.h	/^} menu_t;$/;"	t	typeref:struct:__anon15
+min	.\components\utils\util.c	/^uint8 min(uint8 v1, uint8 v2)$/;"	f
+myAddr	.\components\basicrf\basic_rf.h	/^    uint16 myAddr;$/;"	m	struct:__anon4
+nBytes	.\components\utils\util_buffer.h	/^    volatile uint8 nBytes;$/;"	m	struct:__anon16
+nItems	.\components\utils\util.h	/^  const uint8 nItems;$/;"	m	struct:__anon15
+nonceRx	.\components\basicrf\basic_rf_security.c	/^static uint8 nonceRx[NONCE_SIZE];$/;"	v	file:
+nonceRx	.\components\radios\cc2530\hal_rf_security.c	/^static  uint8 nonceRx[16];$/;"	v	file:
+nonceTx	.\components\basicrf\basic_rf_security.c	/^static uint8 nonceTx[NONCE_SIZE];$/;"	v	file:
+nonceTx	.\components\radios\cc2530\hal_rf_security.c	/^static  uint8 nonceTx[16];$/;"	v	file:
+pConfig	.\components\basicrf\basic_rf.c	/^static basicRfCfg_t* pConfig;$/;"	v	file:
+pData	.\components\utils\util_buffer.h	/^    volatile uint8 pData[BUF_SIZE];$/;"	m	struct:__anon16
+pFirst	.\components\utils\util_menu.h	/^    MenuItem FAR *pFirst;$/;"	m	struct:_menuItem
+pLcdLineBuffer	.\components\common\hal_lcd_srf05.c	/^static char XDATA pLcdLineBuffer[LCD_LINE_LENGTH];$/;"	v	file:
+pLcdLineBuffer	.\components\utils\util_lcd.c	/^static char pLcdLineBuffer[16];$/;"	v	file:
+pMenuItems	.\components\utils\util.h	/^  const menuItem_t* pMenuItems;$/;"	m	struct:__anon15
+pParent	.\components\utils\util_menu.h	/^    struct _menuItem *pParent;$/;"	m	struct:_menuItem	typeref:struct:_menuItem::_menuItem
+pPayload	.\components\basicrf\basic_rf.c	/^    uint8* pPayload;$/;"	m	struct:__anon1	file:
+pPowerSettings	.\components\radios\cc2530\hal_rf.c	/^static const menuItem_t pPowerSettings[] =$/;"	v	file:
+packetLength	.\components\basicrf\basic_rf.c	/^    uint8   packetLength;$/;"	m	struct:__anon3	file:
+panId	.\components\basicrf\basic_rf.c	/^    uint16  panId;$/;"	m	struct:__anon3	file:
+panId	.\components\basicrf\basic_rf.h	/^    uint16 panId;$/;"	m	struct:__anon4
+pfCmd	.\components\utils\util_menu.h	/^    void (*pfCmd)(void);    \/\/ Function; 0 arguments$/;"	m	struct:__anon17
+pfISR	.\components\radios\cc2530\hal_rf.c	/^static ISR_FUNC_PTR pfISR= NULL;$/;"	v	file:
+pin	.\components\targets\interface\hal_digio.h	/^    uint8 pin;      \/\/ pin number$/;"	m	struct:__anon8
+pinJoystickMove	.\components\targets\srf05_soc\hal_joystick.c	/^static const digioConfig pinJoystickMove = {HAL_BOARD_IO_JOY_MOVE_PORT,$/;"	v	file:
+pin_bm	.\components\targets\interface\hal_digio.h	/^    uint8 pin_bm;   \/\/ pin bitmask$/;"	m	struct:__anon8
+port	.\components\targets\interface\hal_digio.h	/^    uint8 port;     \/\/ port number$/;"	m	struct:__anon8
+port0_isr_tbl	.\components\targets\srf05_soc\hal_digio.c	/^static ISR_FUNC_PTR port0_isr_tbl[8] = {0};$/;"	v	file:
+port1_isr_tbl	.\components\targets\srf05_soc\hal_digio.c	/^static ISR_FUNC_PTR port1_isr_tbl[8] = {0};$/;"	v	file:
+port2_isr_tbl	.\components\targets\srf05_soc\hal_digio.c	/^static ISR_FUNC_PTR port2_isr_tbl[5] = {0};$/;"	v	file:
+powerMenu	.\components\radios\cc2530\hal_rf.c	/^const menu_t powerMenu =$/;"	v
+ppBarGraphChar	.\components\utils\util_lcd.c	/^const char ppBarGraphChar[8][8] = {$/;"	v
+receiveOn	.\components\basicrf\basic_rf.c	/^    uint8 receiveOn;$/;"	m	struct:__anon2	file:
+ringBuf_t	.\components\utils\util_buffer.h	/^} ringBuf_t;$/;"	t	typeref:struct:__anon16
+rssi	.\components\basicrf\basic_rf.c	/^    int8 rssi;$/;"	m	struct:__anon1	file:
+rssiOffset	.\components\radios\cc2530\hal_rf.c	/^static uint8 rssiOffset = RSSI_OFFSET;$/;"	v	file:
+rxMpdu	.\components\basicrf\basic_rf.c	/^static uint8 rxMpdu[128];$/;"	v	file:
+rxi	.\components\basicrf\basic_rf.c	/^static basicRfRxInfo_t  rxi=      { 0xFF }; \/\/ Make sure sequence numbers are$/;"	v	file:
+securityControl	.\components\basicrf\basic_rf.c	/^    uint8   securityControl;$/;"	m	struct:__anon3	file:
+securityKey	.\components\basicrf\basic_rf.h	/^    uint8* securityKey;$/;"	m	struct:__anon4
+securityNonce	.\components\basicrf\basic_rf.h	/^    uint8* securityNonce;$/;"	m	struct:__anon4
+seqNumber	.\components\basicrf\basic_rf.c	/^    uint8   seqNumber;$/;"	m	struct:__anon3	file:
+seqNumber	.\components\basicrf\basic_rf.c	/^    uint8 seqNumber;$/;"	m	struct:__anon1	file:
+srcAddr	.\components\basicrf\basic_rf.c	/^    uint16  srcAddr;$/;"	m	struct:__anon3	file:
+srcAddr	.\components\basicrf\basic_rf.c	/^    uint16 srcAddr;$/;"	m	struct:__anon1	file:
+srcPanId	.\components\basicrf\basic_rf.c	/^    uint16 srcPanId;$/;"	m	struct:__anon1	file:
+st	.\components\common\hal_defs.h	154;"	d
+status	.\components\basicrf\basic_rf.c	/^    uint8 status;$/;"	m	struct:__anon1	file:
+symbol1	.\components\utils\util_lcd.c	/^static const char symbol1[8] = {0x03, 0x07, 0x0E, 0x0E, 0x1C, 0x19, 0x1B, 0x1B};$/;"	v	file:
+symbol2	.\components\utils\util_lcd.c	/^static const char symbol2[8] = {0x1B, 0x1B, 0x19, 0x1C, 0x0E, 0x0E, 0x07, 0x03};$/;"	v	file:
+symbol3	.\components\utils\util_lcd.c	/^static const char symbol3[8] = {0x18, 0x1E, 0x07, 0x03, 0x18, 0x1C, 0x06, 0x00};$/;"	v	file:
+symbol4	.\components\utils\util_lcd.c	/^static const char symbol4[8] = {0x00, 0x06, 0x1C, 0x18, 0x03, 0x07, 0x1E, 0x18};$/;"	v	file:
+szDecsr	.\components\utils\util_menu.h	/^    const char FAR *szDecsr;\/\/ Textual description$/;"	m	struct:__anon17
+szDescr	.\components\utils\util.h	/^  const char* szDescr;      \/\/ Textual description$/;"	m	struct:__anon14
+szPrompt	.\components\utils\util_menu.h	/^    const char FAR *szPrompt;$/;"	m	struct:_menuItem
+txMpdu	.\components\basicrf\basic_rf.c	/^static uint8 txMpdu[BASIC_RF_MAX_PAYLOAD_SIZE+BASIC_RF_PACKET_OVERHEAD_SIZE+1];$/;"	v	file:
+txSeqNumber	.\components\basicrf\basic_rf.c	/^    uint8 txSeqNumber;$/;"	m	struct:__anon2	file:
+txState	.\components\basicrf\basic_rf.c	/^static basicRfTxState_t txState=  { 0x00 }; \/\/ initialised and distinct.$/;"	v	file:
+uint16	.\components\common\hal_types.h	/^typedef unsigned short  uint16;$/;"	t
+uint32	.\components\common\hal_types.h	/^typedef unsigned long   uint32;$/;"	t
+uint8	.\components\common\hal_types.h	/^typedef unsigned char   uint8;$/;"	t
+utilChipIdToStr	.\components\utils\util.c	/^const char* utilChipIdToStr(uint8 chipID)$/;"	f
+utilDisplayBarGraph	.\components\utils\util_lcd.c	/^void utilDisplayBarGraph(uint8 line, uint8 col, uint8 min, uint8 value)$/;"	f
+utilLcdDisplayCounters	.\components\utils\util_lcd.c	/^void utilLcdDisplayCounters(uint8 line, int32 lValue, char lChar, int32 rValue, char rChar)$/;"	f
+utilLcdDisplayUint16	.\components\utils\util_lcd.c	/^void utilLcdDisplayUint16(uint8 line, uint8 radix, uint16 value)$/;"	f
+utilLcdDisplayValue	.\components\utils\util_lcd.c	/^void utilLcdDisplayValue(uint8 line, char XDATA *pLeft, int32 value, char XDATA *pRight)$/;"	f
+utilLoadBarGraph	.\components\utils\util_lcd.c	/^void utilLoadBarGraph(void)$/;"	f
+utilMenuSelect	.\components\utils\util_lcd.c	/^uint8 utilMenuSelect(const menu_t* pMenu)$/;"	f
+utilPrintLogo	.\components\utils\util_lcd.c	/^void utilPrintLogo(char* szAppName)$/;"	f
+utilPrintStr	.\components\utils\util_lcd.h	24;"	d
+utilPrintText	.\components\utils\util_lcd.c	/^void utilPrintText(uint8* pTxt, uint8 n) { }$/;"	f
+utilPrintText	.\components\utils\util_lcd.c	/^void utilPrintText(uint8* pTxt, uint8 n)$/;"	f
+utilReverseBuf	.\components\utils\util.c	/^void utilReverseBuf(uint8* pBuf, uint8 length)$/;"	f
+value	.\components\utils\util.h	/^  const uint8  value;        \/\/ Value$/;"	m	struct:__anon14
+xJOYSTICK_ISR	.\components\targets\srf05_soc\hal_joystick.c	22;"	d	file:
