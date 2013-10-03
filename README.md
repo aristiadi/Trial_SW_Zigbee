@@ -1,9 +1,8 @@
-Trial_SW_Zigbee
+Zigbee SDK Trial and Development
 ===============
-
+Powered by Texas Instruments
 Trial Zigbee Code
 
-Buat repositori 
+folder: try_1
 ===============
-folder:   try_1
-function: testing lcd and led, blinking led_3 within interval 50ms
+Description: testing lcd and led, blinking led_3 within interval 50ms
